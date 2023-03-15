@@ -35,10 +35,10 @@ src="https://raw.githubusercontent.com/gist/NicolasKurz67/104730514ad990ef05bc5f
 
 <br>
     <div align="left "style="display: block;">
-        <img width="490em" src="https://github-readme-stats.vercel.app/api?username=NicolasKurz67&show_icons=true&theme=tokyonight" alt="NicolasKurz67's stats"/>
+        <img width="490em" src="https://github-readme-stats.vercel.app/api?username=NicolasKurz67&show_icons=true&theme=aura" alt="NicolasKurz67's stats"/>
         <br>
         <br>
-        <img width="490em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasKurz67&layout=compact" alt="Top languages NicolasKurz67's"/>
+        <img width="490em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasKurz67&layout=compact&theme=aura" alt="Top languages NicolasKurz67's"/>
     </div>
 <br>
 
