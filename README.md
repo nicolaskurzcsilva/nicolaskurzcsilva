@@ -1,74 +1,140 @@
-<img align="right" height="590em"
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f03f6&height=120&section=header"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=c541d7&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!😇;Hello+World!,+My+name+is+Nícolas+Kurz+C.+Silva;I'm+17+years+old;I'm+from+Brazil;I+studying+Information+Systems;"/>
+
+<br>
+<br>
+
+<div style="width:100%; height: 45em;">
+<img align="right" height="100%"
 src="https://raw.githubusercontent.com/gist/NicolasKurz67/104730514ad990ef05bc5ff98c601b43/raw/bcf6095261aed0c34925002fa2136163c775f29f/githubcard.svg">
 
-<h1 align="left">Hi dear, I'm Nícolas Kurz C. Silva 😇</h1>
+<div style="padding: 2rem">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NicolasKurz67&color=blue" alt="Profile views" /> </p>
-
-<br>
-
-## 🙋 &nbsp;About Me
+<h2>🙋 &nbsp;About Me</h2>
 
 <br>
 
-- Dev Jr, starting in the world of programming and always improving 👨‍💻
-- High School at the Federal Institute of Education, Science and Technology of Mato Grosso do Sul (IFMS) with an **Integrated Technical Course in Informatics for the Internet** 🧠
-- I am currently studying **Information Systems** at Uniasselvi 🖥️
+<ul>
+    <li>Dev Jr, starting in the world of programming and always improving 👨‍💻</li>
+    <li>High School at the Federal Institute of Education, Science and Technology of Mato Grosso do Sul (IFMS) with an <b>Integrated Technical Course in Informatics for the Internet</b> 🧠</li>
+    <li>I am currently studying <b>Information Systems</b> at Uniasselvi 🖥️</li>
+</ul>
 
 <br>
 
-## 🛠️ &nbsp;Tech Stack
+<h2>🛠️ &nbsp;Tech Stack</h2>
 
 <br> 
-    <div style="display: block"><br>
-        <img alt="Javascript" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-        <img alt="HTML5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-        <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-        <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-        <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-        <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-        <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+
+<div style="display: block"><br>
+    <img alt="Javascript" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="HTML5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+    <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</div>
+
+<br>
+
+</div>
+</div>
+
+<br>
+
+<h2 align="center">📊 &nbsp;GitHub Analytics</h2>
+
+<br>
+
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=NicolasKurz67&bg_color=0d1117&color=c541d7&line=5f03f6&point=ff9494&area=true&hide_border=true"/>
+
+<br>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NicolasKurz67&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<br>
+
+<h2 align="center">⚙️ &nbsp;GitHub Stats</h2>
+
+<br>
+    <div align="center" style="display: flex;">
+        <img width="390em" height="195px" src="https://github-readme-stats.vercel.app/api?username=NicolasKurz67&show_icons=true&theme=aura&hide_border=true" alt="NicolasKurz67's github stats"/>
+        <br>
+        <br>
+        <img width="390em" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasKurz67&layout=compact&theme=aura&hide_border=true" alt="Top languages NicolasKurz67's"/>
     </div>
 <br>
 
-## ⚙️ &nbsp;GitHub Analytics
+<h3>Main skills:</h3>
 
 <br>
-    <div align="left "style="display: block;">
-        <img width="490em" src="https://github-readme-stats.vercel.app/api?username=NicolasKurz67&show_icons=true&theme=aura" alt="NicolasKurz67's stats"/>
-        <br>
-        <br>
-        <img width="490em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasKurz67&layout=compact&theme=aura" alt="Top languages NicolasKurz67's"/>
-    </div>
+
+<div style="display: block">
+    <img style="border-radius:15px; cursor:pointer" title="Javascript" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+    <img style="border-radius:5px; cursor:pointer" title="HTML5" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img style="border-radius:5px; cursor:pointer" title="CSS3" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img style="border-radius:5px; cursor:pointer" title="React.js" alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img style="border-radius:5px; cursor:pointer" title="Bootstrap" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</div>
+
 <br>
 
-## 🔗 &nbsp;Social Links
+<h3>Studying in this moment:</h3>
+
+<div style="display: block">
+    <img style="border-radius:5px; cursor:pointer" title="React.js" alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img style="border-radius:5px; cursor:pointer" title="Typescript" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img style="border-radius:5px; cursor:pointer" title="Tailwind CSS" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img style="border-radius:5px; cursor:pointer" title="Sass" alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+</div>
 
 <br>
-    <p align="left">
-        <a href="https://www.instagram.com/nicolas_kurz_" title="Meu perfil do Instagram">
-            <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Logo do Instagram"/>
-        </a>
-        <a href="https://www.youtube.com/@nicolaskurz1605" title="Meu canal do Youtube">
-            <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Logo do Youtube"/>
-        </a>
-        <a href="mailto:nicolaskurz67@gmail.com" title="Email para Contato">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Logo do Gmail"/>
-        </a>
-        <a href="mailto:nicolaskurz67@outlook.com" title="Email alternativo para Contato">
-            <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Logo do Outlook"/>
-        </a>
-        <a href="tel:+5567996244590" title="Número para Contato">
-            <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Logo do Telegram"/>
-        </a>
-        <a href="https://twitter.com/nicolas_kurz_" title="Meu perfil do Twitter">
-            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Logo do Twitter"/>
-        </a>
-        <a href="tel:+5567996244590" title="Número para Contato">
-            <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Logo do Whatsapp"/>
-        </a>
-        <a href="https://codepen.io/nicolas_kurz_/" title="Meu perfil do Codepen">
-            <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Logo do Codepen"/>
-        </a>
-    </p>
+
+<h2 align="center">🔗 &nbsp;Social Links</h2>
+
 <br>
+
+<p align="center">
+    <a href="https://www.instagram.com/nicolas_kurz_" title="Meu perfil do Instagram">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Logo do Instagram" style="border-radius: 30px" target="_blank"/>
+    </a>
+    <a href="https://www.youtube.com/@nicolaskurz1605" title="Meu canal do Youtube">
+        <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Logo do Youtube" style="border-radius: 30px" target="_blank"/>
+    </a>
+    <a href="mailto:nicolaskurz67@gmail.com" title="Email para Contato">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Logo do Gmail" style="border-radius: 30px" target="_blank"/>
+    </a>
+    <a href="mailto:nicolaskurz67@outlook.com" title="Email alternativo para Contato">
+        <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Logo do Outlook" style="border-radius: 30px" target="_blank"/>
+    </a>
+    <a href="tel:+5567996244590" title="Número para Contato">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Logo do Telegram" style="border-radius: 30px" target="_blank"/>
+    </a>
+    <a href="https://twitter.com/nicolas_kurz_" title="Meu perfil do Twitter">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Logo do Twitter" style="border-radius: 30px" target="_blank"/>
+    </a>
+    <a href="tel:+5567996244590" title="Número para Contato">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Logo do Whatsapp" style="border-radius: 30px" target="_blank"/>
+    </a>
+    <a href="https://codepen.io/nicolas_kurz_/" title="Meu perfil do Codepen">
+        <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Logo do Codepen" style="border-radius: 30px" target="_blank"/>
+    </a>
+</p>
+
+<br>
+
+<div align="center">
+  <br>
+    <h2 align="centre"><b>Visitors Count</b></h2>  
+    <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=NicolasKurz67&color=blueviolet" alt="Profile views"/> </p></p> 
+  <br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f03f6&height=120&section=footer"/>
