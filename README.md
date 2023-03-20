@@ -44,6 +44,16 @@ src="https://raw.githubusercontent.com/gist/NicolasKurz67/104730514ad990ef05bc5f
 </div>
 </div>
 
+[comment]: <> (perdoer-me pela gambiarra 😭)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 <h2 align="center">📊 &nbsp;GitHub Analytics</h2>
