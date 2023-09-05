@@ -9,7 +9,7 @@
 
 <div style="width:100%; height: 45em;">
 <img align="right" height="100%"
-src="https://raw.githubusercontent.com/gist/NicolasKurz67/104730514ad990ef05bc5ff98c601b43/raw/bcf6095261aed0c34925002fa2136163c775f29f/githubcard.svg">
+src="https://raw.githubusercontent.com/gist/nicolaskurzcsilva/104730514ad990ef05bc5ff98c601b43/raw/bcf6095261aed0c34925002fa2136163c775f29f/githubcard.svg">
 
 <div style="padding: 2rem">
 
@@ -60,12 +60,12 @@ src="https://raw.githubusercontent.com/gist/NicolasKurz67/104730514ad990ef05bc5f
 
 <br>
 
-[![Nícolas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NicolasKurz67&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Nícolas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicolaskurzcsilva&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NicolasKurz67&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nicolaskurzcsilva&theme=discord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <br>
@@ -74,10 +74,10 @@ src="https://raw.githubusercontent.com/gist/NicolasKurz67/104730514ad990ef05bc5f
 
 <br>
     <div align="center" style="display: flex;">
-        <img width="390em" height="195px" src="https://github-readme-stats.vercel.app/api?username=NicolasKurz67&show_icons=true&theme=aura&hide_border=true" alt="NicolasKurz67's github stats"/>
+        <img width="390em" height="195px" src="https://github-readme-stats.vercel.app/api?username=nicolaskurzcsilva&show_icons=true&theme=aura&hide_border=true" alt="nicolaskurzcsilva's github stats"/>
         <br>
         <br>
-        <img width="390em" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasKurz67&layout=compact&theme=aura&hide_border=true" alt="Top languages NicolasKurz67's"/>
+        <img width="390em" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaskurzcsilva&layout=compact&theme=aura&hide_border=true" alt="Top languages nicolaskurzcsilva's"/>
     </div>
 <br>
 
@@ -111,23 +111,14 @@ src="https://raw.githubusercontent.com/gist/NicolasKurz67/104730514ad990ef05bc5f
 <br>
 
 <p align="center">
-    <a href="https://www.instagram.com/nicolas_kurz_" title="Meu perfil do Instagram">
+    <a href="https://www.instagram.com/nicolaskurzcsilva" title="Meu perfil do Instagram">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Logo do Instagram" style="border-radius: 30px" target="_blank"/>
     </a>
-    <a href="https://www.youtube.com/@nicolaskurz1605" title="Meu canal do Youtube">
-        <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Logo do Youtube" style="border-radius: 30px" target="_blank"/>
-    </a>
-    <a href="mailto:nicolaskurz67@gmail.com" title="Email para Contato">
+    <a href="mailto:nicolaskurzcsilva@gmail.com" title="Email para Contato">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Logo do Gmail" style="border-radius: 30px" target="_blank"/>
     </a>
-    <a href="mailto:nicolaskurz67@outlook.com" title="Email alternativo para Contato">
+    <a href="mailto:nicolaskurzcsilva@outlook.com" title="Email alternativo para Contato">
         <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Logo do Outlook" style="border-radius: 30px" target="_blank"/>
-    </a>
-    <a href="tel:+5567996244590" title="Número para Contato">
-        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Logo do Telegram" style="border-radius: 30px" target="_blank"/>
-    </a>
-    <a href="https://twitter.com/nicolas_kurz_" title="Meu perfil do Twitter">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Logo do Twitter" style="border-radius: 30px" target="_blank"/>
     </a>
     <a href="tel:+5567996244590" title="Número para Contato">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Logo do Whatsapp" style="border-radius: 30px" target="_blank"/>
@@ -142,7 +133,7 @@ src="https://raw.githubusercontent.com/gist/NicolasKurz67/104730514ad990ef05bc5f
 <div align="center">
   <br>
     <h2 align="centre"><b>Visitors Count</b></h2>  
-    <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=NicolasKurz67&color=blueviolet" alt="Profile views"/> </p></p> 
+    <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=nicolaskurzcsilva&color=blueviolet" alt="Profile views"/> </p></p> 
   <br>
 </div>
 
