@@ -44,7 +44,7 @@ src="https://raw.githubusercontent.com/gist/NicolasKurz67/104730514ad990ef05bc5f
 </div>
 </div>
 
-[comment]: <> (perdoer-me pela gambiarra 😭)
+[comment]: <> (me perdoem pela gambiarra 😭)
 
 <br>
 <br>
@@ -60,7 +60,7 @@ src="https://raw.githubusercontent.com/gist/NicolasKurz67/104730514ad990ef05bc5f
 
 <br>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=NicolasKurz67&bg_color=0d1117&color=c541d7&line=5f03f6&point=ff9494&area=true&hide_border=true"/>
+[![Nícolas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NicolasKurz67&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
