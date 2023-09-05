@@ -2,14 +2,14 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=c541d7&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!😇;Hello+World!,+My+name+is+Nícolas+Kurz+C.+Silva;I'm+18+years+old;I'm+from+Brazil;I+studying+Information+Systems;"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=c541d7&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!😇;Hello+World!+My+name+is+Nícolas+Kurz+C.+Silva;I'm+18+years+old;I'm+from+Nova+Mutum,+Mato+Grosso+-+Brazil;I+studying+Information+Systems;"/>
 
 <br>
 <br>
 
 <div style="width:100%; height: 45em;">
 <img align="right" height="100%"
-src="https://raw.githubusercontent.com/gist/nicolaskurzcsilva/104730514ad990ef05bc5ff98c601b43/raw/bcf6095261aed0c34925002fa2136163c775f29f/githubcard.svg">
+src="https://raw.githubusercontent.com/gist/nicolaskurzcsilva/104730514ad990ef05bc5ff98c601b43/raw/7d5e131f29804c9c7e91429b4a2de5ae789690d5/githubcard.svg">
 
 <div style="padding: 2rem">
 
@@ -81,7 +81,7 @@ src="https://raw.githubusercontent.com/gist/nicolaskurzcsilva/104730514ad990ef05
     </div>
 <br>
 
-<h3>Main skills:</h3>
+<h3>⬆️ &nbsp;Main skills:</h3>
 
 <br>
 
@@ -95,7 +95,7 @@ src="https://raw.githubusercontent.com/gist/nicolaskurzcsilva/104730514ad990ef05
 
 <br>
 
-<h3>Studying in this moment:</h3>
+<h3>📚 &nbsp;Studying in this moment:</h3>
 
 <div style="display: block">
     <img style="border-radius:5px; cursor:pointer" title="React.js" alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -120,14 +120,14 @@ src="https://raw.githubusercontent.com/gist/nicolaskurzcsilva/104730514ad990ef05
     <a href="mailto:nicolaskurzcsilva@outlook.com" title="Email alternativo para Contato">
         <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Logo do Outlook" style="border-radius: 30px" target="_blank"/>
     </a>
-    <a href="tel:+5567996244590" title="Telefone para Contato">
+        <a href="https://www.linkedin.com/in/nicolaskurzcsilva/" title="Meu perfil do LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo do LinkedIn" style="border-radius: 30px" target="_blank"/>
+    </a>
+    <a href="+5567996244590" title="Telefone para Contato">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Logo do Whatsapp" style="border-radius: 30px" target="_blank"/>
     </a>
     <a href="https://codepen.io/nicolaskurzcsilva/" title="Meu perfil do Codepen">
         <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Logo do Codepen" style="border-radius: 30px" target="_blank"/>
-    </a>
-    <a href="https://www.linkedin.com/in/nicolaskurzcsilva/" title="Meu perfil do LinkedIn">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo do LinkedIn" style="border-radius: 30px" target="_blank"/>
     </a>
 </p>
 
