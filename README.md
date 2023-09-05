@@ -120,10 +120,10 @@ src="https://raw.githubusercontent.com/gist/nicolaskurzcsilva/104730514ad990ef05
     <a href="mailto:nicolaskurzcsilva@outlook.com" title="Email alternativo para Contato">
         <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Logo do Outlook" style="border-radius: 30px" target="_blank"/>
     </a>
-        <a href="https://www.linkedin.com/in/nicolaskurzcsilva/" title="Meu perfil do LinkedIn">
+    <a href="https://www.linkedin.com/in/nicolaskurzcsilva/" title="Meu perfil do LinkedIn">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo do LinkedIn" style="border-radius: 30px" target="_blank"/>
     </a>
-    <a href="+5567996244590" title="Telefone para Contato">
+    <a href="https://wa.link/6zeamn" title="Telefone para Contato">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Logo do Whatsapp" style="border-radius: 30px" target="_blank"/>
     </a>
     <a href="https://codepen.io/nicolaskurzcsilva/" title="Meu perfil do Codepen">
