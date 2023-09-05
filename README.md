@@ -123,8 +123,11 @@ src="https://raw.githubusercontent.com/gist/nicolaskurzcsilva/104730514ad990ef05
     <a href="tel:+5567996244590" title="Número para Contato">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Logo do Whatsapp" style="border-radius: 30px" target="_blank"/>
     </a>
-    <a href="https://codepen.io/nicolas_kurz_/" title="Meu perfil do Codepen">
+    <a href="https://codepen.io/nicolaskurzcsilva/" title="Meu perfil do Codepen">
         <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Logo do Codepen" style="border-radius: 30px" target="_blank"/>
+    </a>
+    <a href="https://www.linkedin.com/in/nicolaskurzcsilva/" title="Meu perfil do LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo do LinkedIn" style="border-radius: 30px" target="_blank"/>
     </a>
 </p>
 
@@ -136,6 +139,5 @@ src="https://raw.githubusercontent.com/gist/nicolaskurzcsilva/104730514ad990ef05
     <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=nicolaskurzcsilva&color=blueviolet" alt="Profile views"/> </p></p> 
   <br>
 </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5f03f6&height=120&section=footer"/>
