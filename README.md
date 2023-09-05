@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=c541d7&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!😇;Hello+World!,+My+name+is+Nícolas+Kurz+C.+Silva;I'm+17+years+old;I'm+from+Brazil;I+studying+Information+Systems;"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=c541d7&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!😇;Hello+World!,+My+name+is+Nícolas+Kurz+C.+Silva;I'm+18+years+old;I'm+from+Brazil;I+studying+Information+Systems;"/>
 
 <br>
 <br>
@@ -120,7 +120,7 @@ src="https://raw.githubusercontent.com/gist/nicolaskurzcsilva/104730514ad990ef05
     <a href="mailto:nicolaskurzcsilva@outlook.com" title="Email alternativo para Contato">
         <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Logo do Outlook" style="border-radius: 30px" target="_blank"/>
     </a>
-    <a href="tel:+5567996244590" title="Número para Contato">
+    <a href="tel:+5567996244590" title="Telefone para Contato">
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Logo do Whatsapp" style="border-radius: 30px" target="_blank"/>
     </a>
     <a href="https://codepen.io/nicolaskurzcsilva/" title="Meu perfil do Codepen">
